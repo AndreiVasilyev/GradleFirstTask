@@ -1,4 +1,4 @@
-package by.clevertec.gradle.first;
+package by.gradle.first;
 
 import org.junit.jupiter.api.Test;
 

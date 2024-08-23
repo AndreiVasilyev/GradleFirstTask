@@ -1,0 +1,4 @@
+)String: -11.58 is not a positive number
+)String: string is not a positive number
+$String: 11.58 is a positive number
+Exception: Wrong input data

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="by.clevertec.gradle.first.StringUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-22T17:49:36" hostname="NOTEBOOK-ANDREI" time="0.023">
-  <properties/>
-  <testcase name="returnFalseIfStringIsNegativeNumberOrNotNumber()" classname="by.clevertec.gradle.first.StringUtilsTest" time="0.018"/>
-  <testcase name="returnTrueIfStringIsPositiveNumber()" classname="by.clevertec.gradle.first.StringUtilsTest" time="0.001"/>
-  <testcase name="throwNumberFormatExceptionIfStringIsNull()" classname="by.clevertec.gradle.first.StringUtilsTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.gradle.first.StringUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-23T11:22:17" hostname="NOTEBOOK-ANDREI" time="0.054">
+  <properties/>
+  <testcase name="returnFalseIfStringIsNegativeNumberOrNotNumber()" classname="by.gradle.first.StringUtilsTest" time="0.042"/>
+  <testcase name="returnTrueIfStringIsPositiveNumber()" classname="by.gradle.first.StringUtilsTest" time="0.003"/>
+  <testcase name="throwNumberFormatExceptionIfStringIsNull()" classname="by.gradle.first.StringUtilsTest" time="0.003"/>
+  <system-out><![CDATA[String: -11.58 is not a positive number
+String: string is not a positive number
+String: 11.58 is a positive number
+Exception: Wrong input data
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

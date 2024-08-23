@@ -7,7 +7,7 @@ version = '1.0'
 
 jar{
     manifest {
-        attributes('name':'GradleFirstTask')
+        attributes('name':'gradle-first-task')
     }
 }
 
